@@ -1,0 +1,17 @@
+[33mcommit ec6d91cd7d7d9d38523fe06e42e15952909b3294[m[33m ([m[1;36mHEAD -> [m[1;32mfilling-in-layout[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mstatic-pages[m[33m, [m[1;32mmaster[m[33m)[m
+Author: pakman <pakman@DESKTOP-J81E3KF.localdomain>
+Date:   Thu Jul 2 23:20:03 2020 -0500
+
+    Finish static pages
+
+[33mcommit aa3e426420f5abef9ce3a8d18720875224078e10[m[33m ([m[1;31morigin/static-pages[m[33m)[m
+Author: pakman <pakman@DESKTOP-J81E3KF.localdomain>
+Date:   Thu Jul 2 23:14:39 2020 -0500
+
+    less code in the views
+
+[33mcommit 5f23df3798f93468f58328a8a5fb043fd8f2df68[m
+Author: pakman <pakman@DESKTOP-J81E3KF.localdomain>
+Date:   Thu Jul 2 22:01:37 2020 -0500
+
+    app create
